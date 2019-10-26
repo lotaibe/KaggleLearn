@@ -1,5 +1,5 @@
 # KaggleLearn-IntermediateML
-Assignments and Projects from Kaggle's Intermediate ML Course. 
+Assignments and Projects from Kaggle's Intermediate Machine Learning Course. 
 
 Kaggle Learn is a free online resource for learning Data Science and Machine Learning. This repository contains my solutions for the assignments & projects covered in the course.
 
