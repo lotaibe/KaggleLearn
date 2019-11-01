@@ -9,5 +9,6 @@ Kaggle Learn is a free online resource for learning Data Science and Machine Lea
 For more information about Kaggle Learn, please visit https://www.kaggle.com/learn/
 
 ## Datasets
-1. Intermediate ML
+1. Intermediate ML 
+- <a href ="https://www.kaggle.com/c/home-data-for-ml-course"> Home Data </a>
 2. <a href ="https://www.kaggle.com/alexisbcook/geospatial-learn-course-data"> GeoSpatial Analysis </a>
