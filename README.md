@@ -3,7 +3,9 @@ Kaggle Learn is a free online resource for learning Data Science and Machine Lea
 
 ## Course Listing
 - Intermediate Machine Learning
+
 - Geopspatial Analysis
+![GeoMaps](https://github.com/LotaIbe/KaggleLearn/blob/master/GeoSpatial%20Analysis/Plots/map1.JPG)
 
 
 For more information about Kaggle Learn, please visit   <a href = "https://www.kaggle.com/learn/"> Kaggle Learn </a>
