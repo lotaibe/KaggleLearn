@@ -7,7 +7,7 @@ Kaggle Learn is a free online resource for learning Data Science and Machine Lea
 - **Geopspatial Analysis**
     <table>
      <tr>
-       <td border=1><a><b>Interact</b></a><br><a href="https://github.com/LotaIbe/KaggleLearn/blob/master/GeoSpatial%20Analysis/Plots/map1.JPG"><img src="https://github.com/LotaIbe/KaggleLearn/blob/master/GeoSpatial%20Analysis/Plots/map1.JPG" /></a> </td>
+       <td border=1><a href = "https://github.com/LotaIbe/KaggleLearn/blob/master/GeoSpatial%20Analysis/GA_Exercise_3%20-%20Interactive%20Maps.ipynb"><b>Interactive Maps</b></a><br><a href="https://github.com/LotaIbe/KaggleLearn/blob/master/GeoSpatial%20Analysis/Plots/map1.JPG"><img src="https://github.com/LotaIbe/KaggleLearn/blob/master/GeoSpatial%20Analysis/Plots/map1.JPG" /></a> </td>
        <td border=1><a><b>Gapminders</b></a><br><a href="https://github.com/LotaIbe/KaggleLearn/blob/master/GeoSpatial%20Analysis/Plots/map2.JPG"><img src="https://github.com/LotaIbe/KaggleLearn/blob/master/GeoSpatial%20Analysis/Plots/map2.JPG" /></a></td>
      <tr>
    </table>
