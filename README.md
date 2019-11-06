@@ -9,15 +9,8 @@ Kaggle Learn is a free online resource for learning Data Science and Machine Lea
      <tr>
        <td border=1><a><b>Interact</b></a><br><a href="https://github.com/LotaIbe/KaggleLearn/blob/master/GeoSpatial%20Analysis/Plots/map1.JPG"><img src="https://github.com/LotaIbe/KaggleLearn/blob/master/GeoSpatial%20Analysis/Plots/map1.JPG" /></a> </td>
        <td border=1><a><b>Gapminders</b></a><br><a href="https://github.com/LotaIbe/KaggleLearn/blob/master/GeoSpatial%20Analysis/Plots/map2.JPG"><img src="https://github.com/LotaIbe/KaggleLearn/blob/master/GeoSpatial%20Analysis/Plots/map2.JPG" /></a></td>
-       <td border=1><a href="https://anaconda.org/jbednar/nyc_taxi_panel"><b>NYC Taxi</b></a><br><a href="https://mybinder.org/v2/gh/panel-demos/nyc_taxi/master?urlpath=/proxy/5006/app"><img src="https://github.com/pyviz/panel/raw/master/doc/_static/collage/nyc_taxi.png" /></a></td>
-       <td border=1><a href="https://anaconda.org/jbednar/glaciers"><b>Glaciers</b></a><br><a href="https://mybinder.org/v2/gh/panel-demos/glaciers/master?urlpath=/proxy/5006/app"><img src="https://github.com/pyviz/panel/raw/master/doc/_static/collage/glaciers.png" /></a></td>
      <tr>
    </table>
-> ![GeoMaps](https://github.com/LotaIbe/KaggleLearn/blob/master/GeoSpatial%20Analysis/Plots/map1.JPG)
-
-> ![GeoMaps2](https://github.com/LotaIbe/KaggleLearn/blob/master/GeoSpatial%20Analysis/Plots/map2.JPG)
-
-
 For more information about Kaggle Learn, please visit   <a href = "https://www.kaggle.com/learn/"> Kaggle Learn </a>
 
 ## Datasets
